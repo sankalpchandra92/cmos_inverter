@@ -13,6 +13,6 @@ This project demonstrates the design of a CMOS inverter using the open-source Sk
 ## Layout Design 
 - The layout was created in Magic VLSI, using the SKY130 process stack as a reference.
 ![Process stack](images/process_stack.png)
-- The following layers were used: nwell, ndiffusion, pdiffusion, polysilicon, locali, ndiffusion contact, pdiffusion contact, viali and metal1.
+- The following layers were used: nwell, ndiffusion, pdiffusion, polysilicon, locali, ndiffusion contact, pdiffusion contact, viali, and metal1.
 - The layout passed DRC (Design Rule Check) successfully.
 ![Layout](images/layout.png)
