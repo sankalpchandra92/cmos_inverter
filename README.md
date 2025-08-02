@@ -18,6 +18,8 @@ This project demonstrates the design of a CMOS inverter using the open-source Sk
 ![Layout](images/layout.png)
 ## LVS (Layout vs Simulation)
 - SPICE netlists were generated from both the schematic (inverter.spice) and the layout (inverter_magic.spice).
+![Spice Netlist](images/spice_netlist.png)
 - Netgen was used to perform LVS (Layout vs. Schematic) comparison.
-- The comparison was successful, and the output was saved in comp.out.
+- The comparison was successful, and the output was saved in (comp.out)
+![LVS](images/lvs.png)
 
